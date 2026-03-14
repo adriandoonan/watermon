@@ -2,7 +2,7 @@
 
 This is a sketch for a simple water presence sensor that detects whether water is in a reservoir, typically using a non-contact sensor and sends a notification to a messaging app on state change. The trigger for the notification is debounced to account for sloshing around in the vessel when water is being removed and will send a reminder after a set period of time if the water level has not returned to normal.
 
-It has been tested to work with the XKC-Y28, which is the recommended sensor as it can be directly powered by the ESP32, and the XKC-Y26S-NPN, which I found needs a 24v power source before it will start sending anything to the microcontroller.
+It has been tested to work with the [XKC-Y26-V](https://electropeak.com/learn/interfacing-xkc-y26-v-non-contact-water-liquid-level-sensor-with-arduino/), which is the recommended sensor as it can be directly powered by the ESP32, and the [XKC-Y26S-NPN](https://www.trumsense.com/products/xkc-y26-npn-water-level-detection-sensor-can-work-with-ic-board-pcb-board-and-alarm-mini-size-non-contact-liquid-level-sensor), which I found needs a 24v power source before it will start sending anything to the microcontroller.
 
 ## Setup
 
