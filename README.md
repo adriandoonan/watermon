@@ -14,7 +14,9 @@ You can shop around for parts, a list of what I used follows
 
 You'll need a power supply and USB cable as well but if you don't already have one, you probably already know where to look. In Berlin I can recommend Action.
 
-Any kind of box will do, the C3 is so small you could even use a matchbox so in total, even if you need to get the power supply and cable, you're looking at around €35 total spend. It's up to you whether whatever you are monitoring is worth that kind of investment.
+Any kind of box will do, the C3 is so small you could even use a matchbox so in total, even if you need to get the power supply and cable, you're looking at around €35 total spend. 
+
+It's up to you whether whatever you are monitoring is worth that kind of investment. I am planning on using mine to automate watering our balcony tomatoes. They sure are thirsty so if I can fill a vessel and only get a warning to refill when it's running low, that's definitely worth €35 euros and ten minutes of my time.
 
 
 
