@@ -4,6 +4,20 @@ This is a sketch for a simple water presence sensor that detects whether water i
 
 It has been tested to work with the [XKC-Y26-V](https://electropeak.com/learn/interfacing-xkc-y26-v-non-contact-water-liquid-level-sensor-with-arduino/), which is the recommended sensor as it can be directly powered by the ESP32, and the [XKC-Y26S-NPN](https://www.trumsense.com/products/xkc-y26-npn-water-level-detection-sensor-can-work-with-ic-board-pcb-board-and-alarm-mini-size-non-contact-liquid-level-sensor), which I found needs a 24v power source before it will start sending anything to the microcontroller.
 
+## Parts
+
+You can shop around for parts, a list of what I used follows
+
+- [WITTKOWARE Water Level Sensor, Contactless, 5-24V/DC, High/Low Output xkc-y26-v](https://www.amazon.de/dp/B0F8NXPD9X)
+- [ESP32-C3 Development Board Mini ESP32 C3 Super Mini Supports WiFi Bluetooth Compatible with Arduino Soldered Pack of 2](https://www.amazon.de/dp/B0G24CTGHL)
+- [3x 40 Pieces Jumper Wire Cables M2M / F2M / F2F for Arduino and Raspberry Pi](https://www.amazon.de/dp/B074P726ZR)
+
+You'll need a power supply and USB cable as well but if you don't already have one, you probably already know where to look. In Berlin I can recommend Action.
+
+Any kind of box will do, the C3 is so small you could even use a matchbox so in total, even if you need to get the power supply and cable, you're looking at around €35 total spend. It's up to you whether whatever you are monitoring is worth that kind of investment.
+
+
+
 ## Setup
 
 Before starting, make sure you have at set up your telegram bot. I recommend starting with a channel so you can add and remove people without having to touch the device. To get your bot token follow the [telegram guide](https://core.telegram.org/bots/tutorial#getting-ready) and take a note of your token. You can ignore the rest of the guide as we are using the API.
